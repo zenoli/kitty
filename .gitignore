@@ -1,4 +1,5 @@
 .theme
 current-theme.conf
-theme-loader.conf*
+# theme-loader.conf*
+*.bak
 kitty.conf.bak
